@@ -34,5 +34,6 @@
 </br>
 </br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=davdan1&show_icons=true&theme=gotham" alt="davdan" />
+![Davit's GitHub stats](https://github-readme-stats.vercel.app/api?username=davdan1&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davdan1&layout=compact)](https://github.com/davdan1/github-readme-stats)
