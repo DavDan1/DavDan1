@@ -21,7 +21,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
 ![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35bdb2?style=flat-square)
