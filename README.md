@@ -24,7 +24,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
 ![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35bdb2?style=flat-square)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?00C7B7?style=flat-square&logo=netlify)
