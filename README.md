@@ -12,6 +12,7 @@ ___
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### About Me:
+___
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by **[email](david-danielyan@hotmail.com@hotmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/davitdanielyan/)**
 ### :computer: Languages and Tools:
