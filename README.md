@@ -16,6 +16,7 @@ ___
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by **[email](david-danielyan@hotmail.com@hotmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/davitdanielyan/)**
 ### :computer: Languages and Tools:
+___
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
