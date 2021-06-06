@@ -3,7 +3,7 @@
 ___
 
 
-### Fullstack Developer
+## Fullstack Developer
 ___
 <a href="https://www.linkedin.com/in/davitdanielyan/">
 <img align="left" alt="Davit Danielyan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
