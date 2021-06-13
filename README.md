@@ -12,6 +12,7 @@ ___
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### About Me:
+
 ___
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me by **[email](david-danielyan@hotmail.com@hotmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/davitdanielyan/)**
@@ -42,7 +43,6 @@ ___
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![VS-code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-</br>
 </br>
 </br>
 
