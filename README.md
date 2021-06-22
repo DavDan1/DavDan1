@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="center"> Davit Danielyan</h1>
-<h3 align="center"> Fullstack Developer</h3>
+<h3 align="center"> Full Stack Developer</h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
