@@ -8,7 +8,7 @@
 Highly motivated and newly graduated bootcamp at craft academy full stack developer working with agile principles.
 ___
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/davitdanielyan/)**
+📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/davitdanielyan/)**
 ### :computer: Languages and Tools:
 ___
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
