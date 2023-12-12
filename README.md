@@ -13,6 +13,7 @@ ___
 ___
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-0078D4?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
@@ -42,7 +43,6 @@ ___
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 </br>
 </br>
 
