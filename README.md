@@ -12,7 +12,6 @@ ___
 ### :computer: Languages and Tools:
 ___
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0078D4?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net)
@@ -29,6 +28,7 @@ ___
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 </br>
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35bdb2?style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
@@ -36,7 +36,6 @@ ___
 </br>
 ![Semaphore](https://img.shields.io/badge/-Semaphore-grey?19A974?style=flat-square&logo=semaphore-ci)
 ![Coveralls](https://img.shields.io/badge/-Coveralls-3F5767?style=flat-square&logo=coveralls)
-![Pivotal Tracker](https://img.shields.io/badge/-Pivotal%20Tracker-430098?style=flat-square&logo=pivotal-tracker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </br>
