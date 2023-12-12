@@ -9,7 +9,7 @@ Highly motivated and newly graduated bootcamp at craft academy full stack develo
 ___
 
 📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/davitdanielyan/)**
-### :computer: Languages and Tools:
+### Languages and Tools:
 ___
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0078D4?style=flat-square&logo=typescript&logoColor=white)
@@ -43,7 +43,7 @@ ___
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat-square&logoColor=white&color=black&labelColor=crimson)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 </br>
 </br>
 
