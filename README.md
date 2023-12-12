@@ -12,6 +12,7 @@ ___
 ### :computer: Languages and Tools:
 ___
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=javascript&logoColor=blue)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
