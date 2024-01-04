@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### About Me:
-Highly motivated and newly graduated bootcamp at craft academy full stack developer working with agile principles.
+Highly motivated full stack developer working with agile principles.
 ___
 
 📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/davitdanielyan/)**
